@@ -1,1 +1,266 @@
+DOCUMENT PUBLIC LICENSE (DPL)
+Version 1.0 – 2026
 
+Copyright (C) 2026 Pedro Emanuel
+
+This work is a freely readable document and (at your option) freely executable software; everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+PREAMBLE
+The Document Public License is a free, copyleft license for documents and other works of the intellect, specifically designed to ensure community cooperation for documents that, in the digital age, function simultaneously as text and as software.
+
+Licenses for most documents and practical works are designed to take away your freedom to share and modify the works. By contrast, our General Public Licenses are intended to guarantee your freedom to share and modify all versions of a document—to ensure it remains free for all its users.
+
+When we speak of a free document, we are referring to freedom, not price. Our General Public Licenses are designed to ensure that you have the freedom to distribute copies of free documents (and charge for them, if you wish), that you receive the Source Document or can obtain it if you want, that you can modify the document or use parts of it in new free documents, and that you know you can do these things.
+
+Developers who use our General Public Licenses protect their rights in two steps: (1) they assert copyright over the document, and (2) they offer you this License, which gives you legal permission to copy, distribute, and/or modify the document.
+
+A secondary benefit of defending the freedom of all users is that improvements made to alternative versions of the document, if widely used, become available for other developers to incorporate. Many developers of free works are encouraged by the resulting cooperation. However, in the case of documents used on network servers, websites, or Artificial Intelligence systems, this outcome may not occur. The GNU General Public License allows you to create a modified version and make it accessible to the public on a server without ever releasing its source code or Source Document to the public.
+
+The Document Public License (DPL) is specifically designed to ensure that, in such cases, the modified Source Document becomes available to the community. It requires the operator of a network server, website, or AI system to provide the Source Document of the modified version running there to the users of that server. Therefore, public use of a modified version on a publicly accessible server grants the public access to the Source Document of the modified version.
+
+The precise terms and conditions for copying, distribution, and modification follow below.
+
+TERMS AND CONDITIONS
+0. Definitions
+"This License" refers to version 1.0 of the Document Public License.
+
+"Copyright" also means copyright-like laws that apply to other types of works, such as semiconductor masks or databases.
+
+"Work" or "Document" refers to any copyrightable work licensed under this License. Each licensee is addressed as "you". "Licensees" and "recipients" may be individuals or organizations.
+
+"Modify" a work means to copy or adapt all or part of the work in a manner requiring copyright permission, other than creating an exact copy. The resulting work is called a "modified version" of the earlier work or a work "based on" the earlier work.
+
+A "covered work" means either the unmodified Document or a work based on the Document.
+
+"Propagate" a work means to do anything with it that, without permission, would make you directly or indirectly liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy. Propagation includes copying, distribution (with or without modification), making available to the public, and, in some countries, other activities as well. To "convey" a work means any kind of propagation that enables other parties to make or receive copies. Mere interaction with a user through a computer network, with no transfer of a copy, is not conveying.
+
+An interactive user interface displays "Appropriate Legal Notices" if it includes a convenient and prominently visible feature that (1) displays an appropriate copyright notice and (2) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License, and how to view a copy of this License. If the interface presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.
+
+1. Definitions of Source Document and Final Document
+The "Source Document" for a work in, or incorporated into, a physical product (including a physical distribution medium), accompanied by the Source Document fixed on a durable physical medium customarily used for software interchange.
+
+b) Convey the Final Document in, or incorporated into, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid as long as you offer spare parts or customer support for that product model, to give anyone who possesses the Final Document (1) a copy of the Source Document for the entire document in the product covered by this License, on a durable physical medium customarily used for software interchange, for a price no more than your reasonable cost of physically performing this source conveyance, or (2) access to copy the Source Document from a network server at no charge.
+
+c) Convey individual copies of the Final Document with a copy of the written offer to provide the Source Document. This alternative is allowed only occasionally and non-commercially, and only if you received the Final Document with such an offer, in accordance with subsection 6b.
+
+d) Convey the Final Document by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Source Document in the same way through the same place at no additional charge. You need not require recipients to copy the Source Document along with the Final Document. If the place to copy the Final Document is a network server, the Source Document may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear instructions next to the Final Document stating where to find the Source Document. Regardless of which server hosts the Source Document, you remain obligated to ensure that it is available for as long as necessary to satisfy these requirements. e) Convey the Conveyed Work using peer-to-peer transmission, provided you inform other peers where the Conveyed Work and the Corresponding Source of the work are being offered to the general public at no charge under subsection 6d.
+
+A separable portion of the Conveyed Work, whose Corresponding Source is excluded from the Corresponding Source as a System Library, need not be included in conveying the Conveyed Work.
+
+A "User Product" is (1) a "consumer product," which means any tangible personal property that is normally used for personal, family, or household purposes, or (2) anything designed or sold for incorporation into a dwelling. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. For a particular product received by a particular user, "normally used" refers to a typical or common use of that class of product, regardless of the status of the particular user or the way in which the particular user actually uses, or expects or is expected to use, the product. A product is a consumer product regardless of whether the product has substantial commercial, industrial, or non-consumer uses, unless such uses represent the only significant mode of use of the product.
+
+"Installation Information" for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source. The information must suffice to ensure that the continued functioning of the modified Conveyed Work is in no case prevented or interfered with solely because modification has been made. If you convey a work in Object Code form under this section in, or with, or specifically for use in, a User Product, and the conveying occurs as part of a transaction in which the right of possession and use of the User Product is transferred to the recipient in perpetuity or for a fixed term (regardless of how the transaction is characterized), the Source Code conveyed under this section must be accompanied by the Installation Information. But this requirement does not apply if neither you nor any third party retains the ability to install modified Object Code on the User Product (for example, the work has been installed in ROM).
+
+The requirement to provide Installation Information does not include a requirement to continue to provide support service, warranty, or updates for a work that has been modified or installed by the recipient, or for the User Product in which it has been modified or installed. Access to a network may be denied when the modification itself materially and adversely affects the operation of the network or violates the rules and protocols for communication across the network.
+
+The Source Code conveyed and the Installation Information provided, in accordance with thismeans the preferred form of the work for making modifications to it. For the purposes of this License, the Source Document includes, but is not limited to, editable files in .ODT, .ODG, .DOCX, .TEX, .SVG, .XML, or .MD formats, or any other format that allows for the full editing of content and structure.
+
+"Final Document" means the machine- and human-readable form, ready for direct reading—typically in .PDF (Portable Document Format)—but which may also include .EPUB, .HTML, .TXT, or .AUDIO formats when generated by the Licensor.
+
+"Distribution Package" means the set of files to be made available to the User, containing, at a minimum, the Final Document, the Source Document (original or modified), and a complete copy of the License text (LICENSE.txt or COPYING file).
+
+"System Files" for an executable work include anything, other than the work as a whole, that (a) is included in the normal packaging form of a Major Component but is not part of that Major Component, and (b) serves solely to enable use of the work with that Major Component, or to implement a Standard Interface for which an implementation is publicly available in source code form. A "Major Component," in this context, means a major essential component (kernel, window system, and so on) of the specific operating system (if any) on which the executable work runs, or a compiler used to produce the work, or an object-code interpreter used to execute it.
+
+"Corresponding Code" for a work in object-code form means all the source code needed to generate, install, and (for an executable work) execute the object code and modify the work, including scripts to control those activities. However, it does not include the work's System Files, or general-purpose tools or generally available free programs that are used without modification to perform these activities but are not part of the work. The Corresponding Code need not include anything that users can automatically regenerate from other parts of the Corresponding Code.
+
+The Corresponding Code for a work in Source Document form is that same work.
+
+2. Basic User Freedoms
+All rights granted under this License are granted for the duration of the copyright on the Work and are irrevocable, provided the established conditions are met. This License explicitly affirms your unrestricted permission to read, print, convert, host, and redistribute the original Final Document. The output from the execution of a covered work is covered by this License only if the output, given its content, constitutes a covered work. This License acknowledges your fair use rights or other equivalents as provided by copyright law.
+
+The Licensor grants the User the following freedoms on a perpetual, irrevocable, and worldwide basis, without the need for royalty payments or prior authorization:
+
+Read and Access: Full freedom to read the Final Document on any device.
+
+Print and Share: Freedom to print physical copies and redistribute the original digital Final Document, provided the file's integrity is maintained.
+
+Convert: Freedom to convert the Source or Final Document into any other readable formats (e.g., ePub, MOBI, Audio (TTS), HTML) for personal use or accessibility.
+
+Host: Freedom to host the original Final Document on cloud servers, personal websites, or public repositories, provided a link to the Source Document is also clearly made available.
+
+Fair Citation (Academic Fair Use): Students, teachers, and journalists are permitted to quote short phrases, isolated paragraphs, or individual verses in articles, theses/dissertations, and news reports without such secondary works being subject to the DPL, provided the citation is made in good faith and for illustrative or critical purposes, with proper attribution of authorship. You may convey, run, and propagate covered works that you do not convey, without conditions, provided that your license remains in force. You may convey covered works to others for the sole purpose of having them make modifications exclusively for you, or provide you with facilities for running those works, provided that you comply with the terms of this License in conveying all material for which you do not control the copyright. Those who thus make or run the covered works for you must do so exclusively on your behalf, under your direction and control, on terms that prohibit them from making any copies of your copyrighted material outside their relationship with you.
+
+Conveying under any other circumstances is permitted only under the conditions stated below. Sublicensing is not allowed; section 10 makes it unnecessary.
+
+3. Protection of Legal Rights of Users Against Anti-Circumvention Laws
+No covered work shall be deemed part of an effective technological measure under any applicable law fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on December 20, 1996, or similar laws prohibiting or restricting the circumvention of such measures.
+
+When you convey a covered work, you waive any legal power to forbid circumvention of technological measures to the extent such circumvention is effected by exercising rights under this License with respect to the covered work, and you disclaim any intention to limit the operation or modification of the work as a means of enforcing, against the work's users, your legal rights or those of third parties to forbid circumvention of technological measures.
+
+4. Conveying Verbatim Copies (Original Final-Document)
+You may convey verbatim copies of the original Final-Document as you received it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License and any non-permissive terms added in accord with section 7 apply to the code; keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Work.
+
+The original Final-Document must be accompanied, in the same Distribution Package, by the original Source-Document and the license file (LICENSE.txt or COPYING).
+
+You may charge any price or no price for each copy that you convey, and you may offer support or warranty protection for a fee. 5. Conveying Modified Versions of the Source Document
+You may convey a work based on the Document, or the modifications to produce it from the Document, in the form of a Source Document under the terms of section 4, provided that you also meet all these conditions:
+
+a) The work must contain prominent notices stating that you modified it, and providing a relevant date.
+
+b) The work must contain prominent notices stating that it is released under this License and any conditions added under section 7. This requirement modifies the requirement in section 4 to "keep intact all notices."
+
+c) You must license the entire work, as a whole, under this License to anyone who comes into possession of a copy. This License, therefore, will apply—along with any applicable additional terms from section 7—to the whole work and all its parts, regardless of how they are packaged. This License does not give permission to license the work in any other way, but it does not invalidate such permission if you received it separately.
+
+d) If the work has interactive user interfaces, each must display Appropriate Legal Notices; however, if the Document has interactive interfaces that do not display Appropriate Legal Notices, your work need not make them display them.
+
+Anchor (Package Integrity): The User distributing a modified or translated version must include, in the same package or digital repository, separate and intact:
+
+The modified Final Document.
+
+The modified Source Document (e.g., editable .ODT).
+
+The ORIGINAL Final Document (e.g., the author's original PDF) for comparison and reference purposes.
+
+The intact LICENSE.txt (DPL) file. Modification Notice: The User must insert a prominent notice (in the footer or header) on the first page of the new Final Document stating: "This document is a modified version of the original work [Title], under the DPL v1.0. Modified on [DATE]."
+
+Retention of Credits: Credits, the original author's name, and the Licensor's copyright notices may not be removed, obscured, or altered. The name of the new author or translator must be added, not substituted.
+
+License Obligation: No copy of the Final Document (PDF) may be distributed or made available for download unless the LICENSE.txt or COPYING file (containing the full text of this DPL) is included in the same directory or compressed package.
+
+A compilation of a covered work with other separate and independent works—which are not by nature extensions of the covered work and are not combined with it to form a larger program—on a volume of a storage or distribution medium is called an "aggregate" if the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation's users beyond what the individual works allow. Inclusion of a covered work in an aggregate does not cause this License to apply to the other parts of the aggregate.
+
+6. Conveying the Final Document (Non-Source Form)
+You may convey a covered work in the form of a Final Document under the terms of sections 4 and 5, provided that you also convey the machine-readable Source Document under the terms of this License, in one of the following ways:
+
+a) Convey the Final Document and in, or incorporated into, a physical product (including a physical distribution medium), accompanied by the Source Document fixed on a durable physical medium customarily used for software interchange.
+
+b) Convey the Final Document in, or incorporated into, a physical product (including a physical distribution medium), accompanied by a written offer, valid for at least three years and valid as long as you offer spare parts or customer support for that product model, to give anyone who possesses the Final Document (1) a copy of the Source Document for the entire document in the product covered by this License, on a durable physical medium customarily used for software interchange, for a price no more than your reasonable cost of physically performing this source conveyance, or (2) access to copy the Source Document from a network server at no charge.
+
+c) Convey individual copies of the Final Document with a copy of the written offer to provide the Source Document. This alternative is allowed only occasionally and non-commercially, and only if you received the Final Document with such an offer, in accordance with subsection 6b.
+
+d) Convey the Final Document by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Source Document in the same way through the same place at no additional charge. You need not require recipients to copy the Source Document along with the Final Document. If the place to copy the Final Document is a network server, the Source Document may be on a different server (operated by you or a third party) that supports equivalent copying facilities, provided you maintain clear instructions next to the Final Document stating where to find the Source Document. Regardless of which server hosts the Source Document, you remain obligated to ensure that it is available for as long as necessary to satisfy these requirements. e) Convey the Conveyed Work using peer-to-peer transmission, provided you inform other peers where the Conveyed Work and the Corresponding Source of the work are being offered to the general public at no charge under subsection 6d.
+
+A separable portion of the Conveyed Work, whose Corresponding Source is excluded from the Corresponding Source as a System Library, need not be included in conveying the Conveyed Work.
+
+A "User Product" is (1) a "consumer product," which means any tangible personal property that is normally used for personal, family, or household purposes, or (2) anything designed or sold for incorporation into a dwelling. In determining whether a product is a consumer product, doubtful cases shall be resolved in favor of coverage. For a particular product received by a particular user, "normally used" refers to a typical or common use of that class of product, regardless of the status of the particular user or the way in which the particular user actually uses, or expects or is expected to use, the product. A product is a consumer product regardless of whether the product has substantial commercial, industrial, or non-consumer uses, unless such uses represent the only significant mode of use of the product.
+
+"Installation Information" for a User Product means any methods, procedures, authorization keys, or other information required to install and execute modified versions of a covered work in that User Product from a modified version of its Corresponding Source. The information must suffice to ensure that the continued functioning of the modified Conveyed Work is in no case prevented or interfered with solely because modification has been made. If you convey a work in Object Code form under this section in, or with, or specifically for use in, a User Product, and the conveying occurs as part of a transaction in which the right of possession and use of the User Product is transferred to the recipient in perpetuity or for a fixed term (regardless of how the transaction is characterized), the Source Code conveyed under this section must be accompanied by the Installation Information. But this requirement does not apply if neither you nor any third party retains the ability to install modified Object Code on the User Product (for example, the work has been installed in ROM).
+
+The requirement to provide Installation Information does not include a requirement to continue to provide support service, warranty, or updates for a work that has been modified or installed by the recipient, or for the User Product in which it has been modified or installed. Access to a network may be denied when the modification itself materially and adversely affects the operation of the network or violates the rules and protocols for communication across the network.
+
+The Source Document conveyed and the Installation Information provided, in accordance with this section, must be in a publicly documented format (and with an implementation available to the public in the form of Source Code), and must not require a password or special key for unpacking, reading, or copying.
+
+7. Additional Terms
+"Additional permissions" are terms that supplement the terms of this License by making exceptions to one or more of its conditions. Additional permissions that are applicable to the entire Document shall be treated as if included in this License, to the extent that they are valid under applicable law. If additional permissions apply only to part of the Document, that part may be used separately under those permissions, but the entire Document remains governed by this License, without regard to the additional permissions.
+
+When you convey a copy of a covered work, you may, at your option, remove any additional permissions from that copy, or from any portion of it. (Additional permissions may be written to require their own removal in certain cases when you modify the work.) You may place additional permissions on material, added by you to a covered work, for which you have or can give appropriate copyright permission.
+
+Notwithstanding any other provision of this License, for material you add to a covered work, you may (if authorized by the copyright holders of that material) supplement the terms of this License with terms:
+
+a) Disclaiming warranty or limiting liability differently from the terms of sections 15 and 16 of this License; or
+
+b) Requiring preservation of specified reasonable legal notices or author attributions in that material or in the Appropriate Legal Notices displayed by works containing it; or
+
+c) Prohibiting misrepresentation of the origin of that material, or requiring that modified versions of such material be marked in reasonable ways as different from the original version; or
+
+d) Limiting the use for publicity purposes of names of licensors or authors of the material; or
+
+e) Refusing to grant trademark rights for the use of certain trade names, trademarks, or service marks; or
+
+f) Requiring indemnification of licensors and authors of that material by anyone who conveys the material (or modified versions thereof) subject to contractual assumptions of liability toward the recipient, for any liability that such contractual assumptions directly impose on those licensors and authors.
+
+All other non-permissive additional terms are considered "additional restrictions" within the meaning of section 10. If the Document as you received it, or any part of it, contains a notice stating that it is governed by this License along with a term that is an additional restriction, you may remove that term. If a license document contains an additional restriction but permits relicensing or conveyance under this License, you may add to a covered work material governed by the terms of that license document, provided that the additional restriction does not survive such relicensing or conveyance.
+
+If you add terms to a covered work in accordance with this section, you must place, in the relevant Source Document files, a statement of the additional terms that apply to those files, or a notice indicating where to find the applicable terms.
+
+Additional terms, whether permissive or non-permissive, may be stated in the form of a separately written license or stated as exceptions; the requirements above apply in either case.
+
+8. Technological and Environmental Obligations (The "Anchor")
+8.1. Applications and Executables
+If any person or company creates a mobile application, computer executable, or service that uses, displays, or processes the text of the Work with the primary focus of exposing or distributing that text, the Source Document for all software responsible for such display/processing must be made available under the DPL or, in the case of server-side dynamics, under the AGPLv3 (Affero General Public License).
+
+8.2. Websites, Servers, and Artificial Intelligence
+If the text is used on a website, webpage, or server, or as part of the training corpus for an Artificial Intelligence system, that system is required to display—in a visible and easily accessible location on the screen—a direct link to:
+
+Download the Final Document (.PDF);
+
+Download the Source Document (editable);
+
+Download the Source Document for the webpage or search/processing engine (or a statement indicating where such Source Document is available under DPL/AGPL).
+
+8.3. Prohibition of DRM and Closed Stores
+It is strictly prohibited to lock the Document using DRM (Digital Rights Management) measures that prevent text extraction, or to make it available exclusively through app stores (App Store, Google Play) that prohibit the User from reinstalling modified versions on their own device or Operating System.
+
+9. Contamination (Structural Copyleft)
+9.1. Collection and Compilations
+If a corporation, publisher, or institution mixes chapters, sub-chapters, or extensive verses of the Work with other materials in a collection, database, or paid book/study guide, the entire product (the whole) becomes subject to these terms and must be made available in its entirety under the terms of the DPL, thereby releasing the Source Document for the entire compilation.
+
+9.2. Publishers and Closed Works
+Large commercial publishers are prohibited from using entire chapters or extensive blocks of paragraphs in books or study guides sold as closed works, unless the entire book becomes a Free Work under the DPL.
+
+10. Patent Retaliation and Obfuscation
+10.1. Patents: If a company uses the text or structure of the Work to develop or patent an algorithm for display, rendering, compression, or AI used to process the Document, it immediately loses its rights under this License, and any patents it holds regarding that technology automatically become licensed for public use, royalty-free, to all other developers.
+
+10.2. Obfuscation: It is prohibited to hide, reduce the font size of, or delete the download links for the Source Document and the DPL within digital reading interfaces. Any attempt to conceal authorship or the terms constitutes a serious violation.
+
+11. Termination
+You may not propagate or modify a covered work except as expressly provided in this License. Any attempt to propagate or modify it is void and will automatically terminate your rights under this License (including any patent licenses granted under the third paragraph of section 11). However, if you cease all violation of this License, then your license from a particular copyright holder is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
+
+Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
+
+Termination of your rights under this section does not terminate the licenses of parties who have received copies or rights from you under this License. If your rights have been terminated and not permanently reinstated, you do not qualify to receive new licenses for the same material under section 10.
+
+12. Acceptance Not Required to Have Copies
+You are not required to accept this License in order to receive or run a copy of the Document. Ancillary propagation of a covered work occurring solely as a consequence of using peer-to-peer transmission to receive a copy likewise does not require acceptance. However, nothing other than this License grants you permission to propagate or modify any covered work. These actions infringe copyright if you do not accept this License. Therefore, by modifying or propagating a covered work, you indicate your acceptance of this License to do so.
+
+13. Automatic Licensing of Downstream Recipients
+Each time you convey a covered work, the recipient automatically receives a license from the original licensors to run, modify, and propagate that work, subject to this License. You are not responsible for enforcing compliance by third parties with this License.
+
+An "entity transaction" is a transaction transferring control of an organization, or substantially all of the assets of one, or subdividing an organization, or merging organizations. If propagation of a covered work results from an entity transaction, each party to that transaction who receives a copy of the work also receives whatever licenses to the work the party's predecessor in interest had or could give under the previous paragraph, plus a right to possession of the Source Code of the work from the predecessor in interest, if the predecessor has it or can get it with reasonable efforts.
+
+You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License. For example, you may not impose a license fee, royalty, or other charge for exercise of rights granted under this License, and you may not initiate litigation (including a cross-claim or counterclaim in a lawsuit) alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Document or any portion of it.
+
+14. Patents
+A "contributor" is a copyright holder who authorizes use under this License of the Document or a work on which the Document is based. The work thus licensed is called the "contributor's version".
+
+The "essential patent claims" of a contributor's claims are all patent claims owned or controlled by the contributor, whether already acquired or hereafter acquired, that would be infringed by some manner—permitted by this License—of making, using, or selling its contributor version, but do not include claims that would be infringed only as a consequence of further modification of the contributor version. For the purposes of this definition, "control" includes the right to grant patent sublicenses in a manner consistent with the requirements of this License.
+
+Each contributor grants you a non-exclusive, worldwide, royalty-free patent license under the contributor's essential patent claims, to make, use, sell, offer for sale, import, and otherwise execute, modify, and propagate the contents of its contributor version.
+
+In the following three paragraphs, a "patent license" is any express agreement or commitment, however denominated, not to enforce a patent (such as an express permission to practice a patent or a commitment not to sue for patent infringement). "Granting" such a patent license to a party means making such an agreement or commitment not to enforce a patent against that party.
+
+If you convey a covered work, knowingly relying on a patent license, and the Corresponding Source of the work is not available for anyone to copy, free of charge and under the terms of this License, through a publicly available network server or other readily accessible means, then you must either (1) cause the Corresponding Source to be so available, or (2) arrange to deprive yourself of the benefit of the patent license for this particular work, or (3) arrange, in a manner consistent with the requirements of this License, to extend the patent license to downstream recipients. "Knowingly relying" means you have actual knowledge that, but for the patent license, your conveying the covered work in a country, or your recipient's use of the covered work in a country, would infringe one or more identifiable patents in that country that you have reason to believe are valid.
+
+If, pursuant to or in connection with a single transaction or arrangement, you convey, or propagate by procuring conveyance of, a covered work, and grant a patent license to some of the parties receiving the covered work authorizing them to use, propagate, modify or convey a specific copy of the covered work, then the patent license you grant is automatically extended to all recipients of the covered work and works based on it.
+
+A patent license is "discriminatory" if it does not include within the scope of its coverage, prohibits the exercise of, or is conditioned on the non-exercise of one or more of the rights that are specifically granted under this License. You may not convey a covered work if you are a party to an arrangement with a third party that is in the business of distributing software, under which you make payment to the third party based on the extent of your activity of conveying the work, and under which the third party grants, to any of the parties who would receive the covered work from you, a discriminatory patent license (a) in connection with copies of the covered work conveyed by you (or copies made from those copies), or (b) primarily for and in connection with specific products or compilations that contain the covered work, unless you entered into that arrangement, or that patent license was granted, prior to March 28, 2007.
+
+Nothing in this License shall be construed as excluding or limiting any implied license or other defenses to infringement that may otherwise be available to you under applicable patent law.
+
+15. Typographical Errors and License Validity
+15.1. Typographical and Formatting Errors: Minor errors regarding typing, spelling, punctuation, formatting, clause numbering, or cross-references within the text of this License, the Mandatory Notice Block, or any associated file (such as COPYING or LICENSE.txt) do not nullify, invalidate, or weaken the legal enforceability of this License.
+
+15.2. Intent Prevails over Form: In the event of ambiguity, material error, or technical inconsistency, the interpretation must always favor the Licensor's manifest intent to protect the freedom of the Document, ensure the traceability of modifications, and preserve Copyleft regarding the Work and its Derivatives.
+
+15.3. Implicit Correction: Obvious typographical errors may be silently corrected by any distributor acting in good faith, provided that the correction does not alter the substantive meaning of the license and that the distributor maintains a public record of the correction made.
+
+15.4. Precedence of Meaning: In cases where the Mandatory Notice Block (in English) and the Portuguese version of this License present discrepancies resulting from translation error, The English version of the Notice Block shall prevail for purposes of international legal interpretation, but the Portuguese version shall remain the valid document for purposes of tacit acceptance within Portuguese-speaking territories.
+
+16. Disclaimer of Warranty
+THERE IS NO WARRANTY FOR THE DOCUMENT, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING, THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE DOCUMENT "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE DOCUMENT IS WITH YOU. SHOULD THE DOCUMENT PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR, OR CORRECTION. 17. Limitation of Liability
+IN NO EVENT, UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, SHALL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE DOCUMENT AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE DOCUMENT (INCLUDING, BUT NOT LIMITED TO, LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE DOCUMENT TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+18. Interpretation of Sections 16 and 17
+If the disclaimer of warranty and limitation of liability provided above cannot be given local legal effect according to their terms, reviewing courts shall apply local law that most closely approximates an absolute waiver of all civil liability in connection with the Document, unless a warranty or assumption of liability accompanies a copy of the Document in return for a fee.
+
+MANDATORY TEXT BLOCK
+To comply with international requirements and traceability, the Licensor must paste this exact block (in English) on the first and last page of the Final Document (.PDF) and also in the header of the Source Document (.ODT/.TEX):
+
+"<one line to give the document's name and a brief idea of ​​what it does.>
+Copyright (C) <year> <author's name>
+
+This document is free software: you can redistribute it and/or modify it
+under the terms of the Document Public License (DPL) as published
+by the Licensor, either version 1.0 of this License, or
+(at your option) any later version. 
+
+This document is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+Document Public License (DPL) for more details. 
+
+You should have received a copy of the Document Public License (DPL)
+along with this program. If not, see <https://github.com/1Abc342PedroGina-novo/DPL/>"
+
+f your document can interact with users remotely over a computer network, you must also ensure that it provides a way for users to obtain its Source Document. For example, if your document is a web application, its interface could display a "Source" link that leads users to a code file. There are many ways to provide the Source Document, and different solutions will be better suited to different documents; see Section 13 for specific requirements.
+
+You should also obtain a "waiver of copyright" from your employer (if you work as a programmer) or school, if applicable for the necessary documents. For more information on this, and on how to apply and follow the DPL, see https://github.com/1Abc342PedroGina-novo/DPL/.
