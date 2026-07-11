@@ -4,18 +4,48 @@ Version 1.0 – 2026
 Copyright (C) 2026 Pedro Emanuel
 
 This work is a freely readable document and (at your option) freely executable software; everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+
 PREAMBLE
-The Document Public License is a free, copyleft license for documents and other works of the intellect, specifically designed to ensure community cooperation for documents that, in the digital age, function simultaneously as text and as software.
+The Document Public License is a free, copyleft license for documents 
+and other works of the intellect, specifically designed to ensure 
+community cooperation for documents that, in the digital age, function 
+simultaneously as text and as software.
 
-Licenses for most documents and practical works are designed to take away your freedom to share and modify the works. By contrast, our Document Public Licenses are intended to guarantee your freedom to share and modify all versions of a document—to ensure it remains free for all its users.
+Licenses for most documents and practical works are designed to take 
+away your freedom to share and modify the works. By contrast, our 
+Document Public Licenses are intended to guarantee your freedom to 
+share and modify all versions of a document—to ensure it remains free 
+for all its users.
 
-When we speak of a free document, we are referring to freedom, not price. Our Document Public Licenses are designed to ensure that you have the freedom to distribute copies of free documents (and charge for them, if you wish), that you receive the Source Document or can obtain it if you want, that you can modify the document or use parts of it in new free documents, and that you know you can do these things.
+When we speak of a free document, we are referring to freedom, not price. 
+Our Document Public Licenses are designed to ensure that you have the 
+freedom to distribute copies of free documents (and charge for them, if 
+you wish), that you receive the Source Document or can obtain it if you 
+want, that you can modify the document or use parts of it in new free 
+documents, and that you know you can do these things.
 
-Developers who use our Document Public Licenses protect their rights in two steps: (1) they assert copyright over the document, and (2) they offer you this License, which gives you legal permission to copy, distribute, and/or modify the document.
+Authors who use our Document Public License protect their rights in two 
+steps: (1) they assert copyright over the document, and (2) they offer 
+you this License, which gives you legal permission to copy, distribute, 
+and/or modify the document.
 
-A secondary benefit of defending the freedom of all users is that improvements made to alternative versions of the document, if widely used, become available for other developers to incorporate. Many developers of free works are encouraged by the resulting cooperation. However, in the case of documents used on network servers, websites, or Artificial Intelligence systems, this outcome may not occur. The DPL allows you to create a modified version and make it accessible to the public on a server without ever releasing its source code or Source Document to the public.
+A secondary benefit of defending the freedom of all users is that 
+improvements made to alternative versions of the document, if widely 
+used, become available for other authors to incorporate. Many authors 
+of free works are encouraged by the resulting cooperation. However, in 
+the case of documents used on network servers, websites, or Artificial 
+Intelligence systems, this outcome may not occur. The GNU General Public 
+License allows you to create a modified version and make it accessible 
+to the public on a server without ever releasing its source code or 
+Source Document to the public.
 
-The Document Public License (DPL) is specifically designed to ensure that, in such cases, the modified Source Document becomes available to the community. It requires the operator of a network server, website, or AI system to provide the Source Document of the modified version running there to the users of that server. Therefore, public use of a modified version on a publicly accessible server grants the public access to the Source Document of the modified version.
+The Document Public License (DPL) is specifically designed to ensure 
+that, in such cases, the modified Source Document becomes available to 
+the community. It requires the operator of a network server, website, 
+or AI system to provide the Source Document of the modified version 
+running there to the users of that server. Therefore, public use of a 
+modified version on a publicly accessible server grants the public 
+access to the Source Document of the modified version.
 
 The precise terms and conditions for copying, distribution, and modification follow below.
 
@@ -179,6 +209,30 @@ Download the Source Document for the webpage or search/processing engine (or a s
 
 8.3. Prohibition of DRM and Closed Stores
 It is strictly prohibited to lock the Document using DRM (Digital Rights Management) measures that prevent text extraction, or to make it available exclusively through app stores (App Store, Google Play) that prohibit the User from reinstalling modified versions on their own device or Operating System.
+
+8.4. Hardware-based blocking is prohibited.
+
+No person or entity may distribute, embed, or pre-install the Document (or any modified version thereof) into any hardware device, electronic reader, e-ink display, or any other physical or digital device if that device prevents, hinders, or discourages the user from accessing, extracting, copying, modifying, or replacing the Document with a modified version.
+
+Specifically, the following practices are prohibited:
+
+a) Secure Boot Locking: Using cryptographic signatures, Secure Boot, or any other verification mechanism that prevents the device from displaying a modified version of the Document.
+
+b) Firmware Restrictions: Implementing firmware or software that detects modifications to the Document and refuses to display it, or "bricks" the device.
+
+c) Encrypted Storage: Storing the Document in a format that prevents text extraction, copying, or modification, unless the encryption keys are provided to the user.
+
+d) Proprietary App Stores: Distributing the Document exclusively through app stores (Apple App Store, Google Play, Amazon, etc.) that prohibit side-loading or installing modified versions of the Document on the same device.
+
+Any distribution of the Document in or for a hardware device must be accompanied by:
+
+A full copy of the Source Document (editable format);
+
+Clear instructions on how to replace the Document in the device with a modified version;
+
+All technical information necessary to perform the replacement (including, if applicable, developer keys, unlocking procedures, or flashing tools), at no additional charge.
+
+Violation of this section constitutes a material breach of the License and triggers automatic termination under Section 11.
 
 9. Contamination (Structural Copyleft)
 9.1. Collection and Compilations
