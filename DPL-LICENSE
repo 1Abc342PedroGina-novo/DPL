@@ -280,6 +280,18 @@ A patent license is "discriminatory" if it does not include within the scope of 
 
 Nothing in this License shall be construed as excluding or limiting any implied license or other defenses to infringement that may otherwise be available to you under applicable patent law.
 
+If you convey a covered work, knowingly relying on a patent license, and the Corresponding Source of the work is not available for anyone to copy, free of charge and under the terms of this License, through a publicly available network server or other readily accessible means, then you must either:
+
+(1) cause the Corresponding Source to be so available;
+
+(2) arrange to deprive yourself of the benefit of the patent license for this particular work; or
+
+(3) arrange, in a manner consistent with the requirements of this License, to extend the patent license to downstream recipients.
+
+"Knowingly relying" means you have actual knowledge that, but for the patent license, your conveying the covered work in a country, or your recipient's use of the covered work in a country, would infringe one or more identifiable patents in that country that you have reason to believe are valid.
+
+
+
 15. Typographical Errors and License Validity
 15.1. Typographical and Formatting Errors: Minor errors regarding typing, spelling, punctuation, formatting, clause numbering, or cross-references within the text of this License, the Mandatory Notice Block, or any associated file (such as COPYING or LICENSE.txt) do not nullify, invalidate, or weaken the legal enforceability of this License.
 
@@ -318,3 +330,14 @@ along with this program. If not, see <https://github.com/1Abc342PedroGina-novo/D
 f your document can interact with users remotely over a computer network, you must also ensure that it provides a way for users to obtain its Source Document. For example, if your document is a web application, its interface could display a "Source" link that leads users to a code file. There are many ways to provide the Source Document, and different solutions will be better suited to different documents; see Section 13 for specific requirements.
 
 You should also obtain a "waiver of copyright" from your employer (if you work as a programmer) or school, if applicable for the necessary documents. For more information on this, and on how to apply and follow the DPL, see https://github.com/1Abc342PedroGina-novo/DPL/.
+
+
+19. Compatibility with Other Licenses
+
+a) GNU General Public License (GPLv3): You may combine, link, or aggregate the Document with works licensed under the GNU GPLv3. The resulting combined work shall be licensed under the GNU GPLv3 for the software portions, and under the DPL for the document portions, provided that the combined work as a whole is treated as a single work licensed under the DPL, to the extent permitted by applicable law.
+
+b) GNU Affero General Public License (AGPLv3): You may combine the Document with works licensed under the AGPLv3. The resulting combined work shall be licensed under the AGPLv3 for the software portions, and under the DPL for the document portions.
+
+c) Creative Commons BY-SA 4.0: You may not combine the Document with CC BY-SA works in a way that creates a single derivative work, unless the entire resulting work is licensed under the DPL, and the DPL is explicitly compatible with CC BY-SA. For the avoidance of doubt, this compatibility is not granted by this License.
+
+d) Apache 2.0: You may combine the Document with Apache 2.0-licensed software, provided that the document portions remain under the DPL, and the software portions remain under Apache 2.0. The combined work is considered a collective work, not a derivative work, for the purposes of this License.
